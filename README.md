@@ -8,7 +8,11 @@ Created by YangtseJin
 
 如需转载或作其他用途，请注明出处！
 
-project source code:https://github.com/yangtseJin/Object-Detection-with-GUI-base-on-Deep-Learning-Network
+project source code : https://github.com/yangtseJin/Object-Detection-with-GUI-base-on-Deep-Learning-Network
+
+如果这个项目对你有用，请点击一下 star！
+
+If this project is useful to you, please star:\star this project!
 
 
 

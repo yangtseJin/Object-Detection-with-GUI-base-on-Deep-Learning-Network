@@ -10,9 +10,9 @@ Created by YangtseJin
 
 project source code : https://github.com/yangtseJin/Object-Detection-with-GUI-base-on-Deep-Learning-Network
 
-如果这个项目对你有用，请点击一下 star！
+**如果这个项目对你有用，请点击一下 star！**
 
-If this project is useful to you, please star this project!
+**If this project is useful to you, please star this project!**
 
 
 

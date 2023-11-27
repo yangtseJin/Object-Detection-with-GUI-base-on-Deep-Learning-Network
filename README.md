@@ -12,7 +12,7 @@ project source code : https://github.com/yangtseJin/Object-Detection-with-GUI-ba
 
 如果这个项目对你有用，请点击一下 star！
 
-If this project is useful to you, please star:\star this project!
+If this project is useful to you, please star this project!
 
 
 
